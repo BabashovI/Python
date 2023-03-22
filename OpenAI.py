@@ -1,6 +1,6 @@
 
 import openai
-openai.api_key = "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"
+openai.api_key = "qwe"
 
 
 def generate_text(prompt):
