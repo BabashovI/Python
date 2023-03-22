@@ -1,0 +1,27 @@
+1673382503258	geckodriver	INFO	Listening on 127.0.0.1:50633
+1673382503616	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "50634" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/0v/q1n2q3rn3fx9d4gqr1mth27w0000gn/T/rust_mozprofilep70T8K"
+1673382504927	Marionette	INFO	Marionette enabled
+1673382505207	Marionette	INFO	Listening on port 50646
+WebDriver BiDi listening on ws://localhost:50634
+Read port: 50646
+1673382505392	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/0v/q1n2q3rn3fx9d4gqr1mth27w0000gn/T/rust_mozprofilep70T8K/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50634/devtools/browser/3056abc1-3249-4e88-837a-1395f5504565
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+JavaScript error: resource:///actors/FormValidationChild.jsm, line 184: TypeError: this._element is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.python.org"
+1673382507941	Marionette	INFO	Stopped listening on port 50646
+1673383004223	geckodriver	INFO	Listening on 127.0.0.1:50827
+1673383004768	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "50828" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/0v/q1n2q3rn3fx9d4gqr1mth27w0000gn/T/rust_mozprofileuzXRRm"
+1673383005414	Marionette	INFO	Marionette enabled
+1673383005454	Marionette	INFO	Listening on port 50833
+WebDriver BiDi listening on ws://localhost:50828
+Read port: 50833
+1673383005853	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/0v/q1n2q3rn3fx9d4gqr1mth27w0000gn/T/rust_mozprofileuzXRRm/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50828/devtools/browser/7df7653b-db7f-449a-8951-d8c892ba5d9f
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+JavaScript error: resource:///actors/FormValidationChild.jsm, line 184: TypeError: this._element is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.python.org"
+1673383008262	Marionette	INFO	Stopped listening on port 50833
+JavaScript error: resource://gre/modules/TerminatorTelemetry.jsm, line 71: AbortError: IOUtils: Shutting down and refusing additional I/O tasks

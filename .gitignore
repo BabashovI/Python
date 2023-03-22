@@ -1,0 +1,12 @@
+*.csv
+*.txt
+*.xlsx
+*.xls
+*.html
+*.pdf
+DJANGO_COURSE_2.xx/
+files/
+.DS_Store
+.git
+.venv
+venv
